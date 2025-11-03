@@ -1,0 +1,429 @@
+[
+  {
+    "ticker": "AAPL",
+    "company_name": "Apple Inc.",
+    "regulation_name": "L_2019328FR.01000701.xml",
+    "regulation_jurisdiction": "EU",
+    "impact_score": 0,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.3,
+    "key_reasons": [
+      "Regulation details are not specified, preventing accurate impact assessment",
+      "EU jurisdiction affects 25.9% of Apple's geographic revenue exposure",
+      "Without key requirements or penalties defined, cannot determine compliance burden or business model impact"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "The regulation file name suggests EU origin but lacks critical details including key requirements, penalties, and effective date. While Europe represents over a quarter of Apple's revenue, the absence of substantive regulatory content prevents meaningful impact evaluation. A neutral assessment is warranted pending clarification of actual regulatory provisions.",
+    "analyzed_at": "2025-11-02T19:25:20.288593"
+  },
+  {
+    "ticker": "A",
+    "company_name": "Agilent Technologies, Inc.",
+    "regulation_name": "L_2019328FR.01000701.xml",
+    "regulation_jurisdiction": "EU",
+    "impact_score": 0,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.3,
+    "key_reasons": [
+      "Regulation details are not specified, preventing substantive impact assessment",
+      "EU represents 27.2% of revenue - moderate exposure but unclear regulatory requirements",
+      "Life sciences and diagnostics sectors are heavily regulated, but specific compliance obligations unknown"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "Without specified key requirements, penalties, or effective dates for regulation L_2019328FR.01000701.xml, a meaningful impact assessment cannot be conducted. While Agilent has material EU exposure (27.2% of revenue), the absence of regulatory details necessitates a neutral stance until further information is available.",
+    "analyzed_at": "2025-11-02T19:25:20.338031"
+  },
+  {
+    "ticker": "ABT",
+    "company_name": "Abbott Laboratories",
+    "regulation_name": "L_2019328FR.01000701.xml",
+    "regulation_jurisdiction": "EU",
+    "impact_score": 0,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.3,
+    "key_reasons": [
+      "Regulation details are not specified, preventing substantive impact assessment",
+      "EU regulation has limited direct impact given only 38.9% Americas exposure and minimal disclosed EU presence",
+      "Healthcare sector typically faces regulatory scrutiny, but without specific requirements cannot determine materiality"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "Without specified key requirements, penalties, or effective dates for this EU regulation, a meaningful impact assessment cannot be conducted. Given Abbott's geographic exposure is primarily in the Americas with limited disclosed European operations, and absent any details on the regulation's scope or requirements, the impact is assessed as neutral with low confidence.",
+    "analyzed_at": "2025-11-02T19:25:20.422077"
+  },
+  {
+    "ticker": "ABBV",
+    "company_name": "AbbVie Inc.",
+    "regulation_name": "L_2019328FR.01000701.xml",
+    "regulation_jurisdiction": "EU",
+    "impact_score": -0.3,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.4,
+    "key_reasons": [
+      "Limited EU geographic exposure (76.4% Americas-focused) reduces direct regulatory impact",
+      "Regulation details are unspecified, preventing accurate assessment of compliance requirements and costs",
+      "Biopharmaceutical sector typically faces EU regulatory oversight, but without specific requirements the materiality cannot be determined"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "Without specified regulatory requirements, penalties, or effective dates, the impact assessment is highly uncertain. AbbVie's limited EU exposure (implied <25% non-Americas) suggests any EU regulation would have modest direct impact. The company's substantial R&D spending ($12.8B) provides resources for compliance adaptation if needed, but the lack of regulatory specifics prevents a more definitive evaluation.",
+    "analyzed_at": "2025-11-02T19:25:21.511454"
+  },
+  {
+    "ticker": "ABNB",
+    "company_name": "Airbnb, Inc.",
+    "regulation_name": "L_2019328FR.01000701.xml",
+    "regulation_jurisdiction": "EU",
+    "impact_score": -0.3,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.4,
+    "key_reasons": [
+      "Regulation details are not specified, making precise impact assessment impossible",
+      "EU represents 37% of business exposure, indicating material geographic relevance if regulation is restrictive",
+      "Technology/travel platform companies face increasing EU regulatory scrutiny around data privacy, consumer protection, and platform responsibilities",
+      "Without knowing specific requirements and penalties, cannot determine compliance costs or operational changes needed"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "The lack of specified regulatory requirements, penalties, and effective date prevents accurate impact assessment. Given Airbnb's significant 37% European exposure and the EU's historically stringent approach to regulating digital platforms and short-term rental services, there is potential for negative impact, but this cannot be quantified without regulation details. A cautious HOLD position is warranted until regulation specifics are clarified.",
+    "analyzed_at": "2025-11-02T19:25:22.488762"
+  },
+  {
+    "ticker": "ABBV",
+    "company_name": "AbbVie Inc.",
+    "regulation_name": "Public Law 117–169: To provide for reconciliation pursuant to title II of S. Con. Res. 14.",
+    "regulation_jurisdiction": "US",
+    "impact_score": -1.5,
+    "impact_category": "STRONG_NEGATIVE",
+    "confidence": 0.85,
+    "key_reasons": [
+      "Public Law 117-169 (Inflation Reduction Act) includes Medicare drug price negotiation provisions that directly impact pharmaceutical pricing power for high-revenue drugs",
+      "AbbVie's 76.4% Americas revenue exposure makes it highly vulnerable to US Medicare pricing reforms and inflation rebate penalties",
+      "The law imposes penalties for price increases above inflation and extends manufacturer discount obligations, compressing margins on key products like Humira and Rinvoq"
+    ],
+    "recommendation": "REDUCE",
+    "explanation": "The Inflation Reduction Act represents a fundamental shift in pharmaceutical pricing dynamics in AbbVie's primary market. With three-quarters of revenue from the Americas and blockbuster drugs subject to Medicare negotiation, AbbVie faces material margin compression and reduced pricing flexibility. While the $12.8B R&D investment provides innovation capacity, near-term financial impact will be significant as key products face pricing pressure.",
+    "analyzed_at": "2025-11-02T19:25:27.666671"
+  },
+  {
+    "ticker": "AAPL",
+    "company_name": "Apple Inc.",
+    "regulation_name": "Public Law 117–169: To provide for reconciliation pursuant to title II of S. Con. Res. 14.",
+    "regulation_jurisdiction": "US",
+    "impact_score": 1,
+    "impact_category": "MODERATE_POSITIVE",
+    "confidence": 0.75,
+    "key_reasons": [
+      "Inflation Reduction Act includes $369B in clean energy incentives and tax credits that benefit Apple's renewable energy initiatives and supply chain decarbonization goals",
+      "15% corporate minimum tax on companies with over $1B in profits creates competitive advantage as Apple already maintains effective tax rates near this level, while smaller competitors may face increased burden",
+      "Semiconductor manufacturing incentives and domestic production credits align with Apple's supply chain diversification strategy and reduce China dependency risks"
+    ],
+    "recommendation": "BUY",
+    "explanation": "Public Law 117-169 (Inflation Reduction Act) provides net positive impact for Apple through clean energy tax credits supporting its carbon neutrality goals, semiconductor manufacturing incentives aiding supply chain resilience, and a corporate minimum tax structure that disproportionately affects competitors. Apple's scale, existing tax efficiency, and $31.4B R&D budget position it to capitalize on green technology incentives while absorbing regulatory costs better than smaller rivals.",
+    "analyzed_at": "2025-11-02T19:25:27.864201"
+  },
+  {
+    "ticker": "ABNB",
+    "company_name": "Airbnb, Inc.",
+    "regulation_name": "Public Law 117–169: To provide for reconciliation pursuant to title II of S. Con. Res. 14.",
+    "regulation_jurisdiction": "US",
+    "impact_score": -0.5,
+    "impact_category": "MODERATE_NEGATIVE",
+    "confidence": 0.75,
+    "key_reasons": [
+      "Public Law 117-169 (Inflation Reduction Act) introduces 15% corporate minimum tax on companies with average annual adjusted financial statement income exceeding $1B, likely affecting Airbnb's effective tax rate",
+      "Stock buyback excise tax of 1% on net share repurchases increases cost of capital return programs that tech companies frequently utilize",
+      "Clean energy and climate provisions have minimal direct operational impact on Airbnb's asset-light platform business model, limiting both costs and benefits"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "The Inflation Reduction Act's corporate minimum tax and stock buyback excise tax will modestly increase Airbnb's tax burden and capital allocation costs, but the impact is manageable given the company's profitability and cash generation. The regulation does not threaten core business operations or create material compliance burdens for the platform model, resulting in a limited negative financial impact rather than operational disruption.",
+    "analyzed_at": "2025-11-02T19:25:28.201297"
+  },
+  {
+    "ticker": "A",
+    "company_name": "Agilent Technologies, Inc.",
+    "regulation_name": "Public Law 117–169: To provide for reconciliation pursuant to title II of S. Con. Res. 14.",
+    "regulation_jurisdiction": "US",
+    "impact_score": 0.6,
+    "impact_category": "MODERATE_POSITIVE",
+    "confidence": 0.75,
+    "key_reasons": [
+      "R&D tax credits and incentives in the Inflation Reduction Act benefit Agilent's $500M annual R&D spending, particularly for clean energy and climate-related analytical instruments",
+      "Increased demand for life sciences equipment and diagnostics from expanded healthcare provisions and pharmaceutical manufacturing incentives",
+      "Clean energy investments drive demand for Agilent's chemical analysis and materials testing equipment used in battery, solar, and renewable energy development"
+    ],
+    "recommendation": "BUY",
+    "explanation": "Public Law 117-169 (Inflation Reduction Act) creates moderate positive tailwinds for Agilent through enhanced R&D incentives, expanded healthcare spending, and significant clean energy investments requiring advanced analytical instrumentation. The company's diversified geographic exposure and strong services revenue provide stability while capturing growth opportunities in emerging clean tech markets.",
+    "analyzed_at": "2025-11-02T19:25:28.898734"
+  },
+  {
+    "ticker": "ABT",
+    "company_name": "Abbott Laboratories",
+    "regulation_name": "Public Law 117–169: To provide for reconciliation pursuant to title II of S. Con. Res. 14.",
+    "regulation_jurisdiction": "US",
+    "impact_score": -1,
+    "impact_category": "MODERATE_NEGATIVE",
+    "confidence": 0.75,
+    "key_reasons": [
+      "Public Law 117-169 (Inflation Reduction Act) includes Medicare drug price negotiation provisions that will pressure pharmaceutical and medical device pricing, affecting Abbott's diagnostics and established pharmaceutical segments",
+      "The law's $2,000 out-of-pocket cap on Medicare Part D and insulin price caps ($35/month) may reduce revenue from Abbott's diabetes care products including continuous glucose monitoring systems",
+      "Corporate minimum tax (15% on book income for companies over $1B) and 1% excise tax on stock buybacks will increase Abbott's tax burden and reduce shareholder return flexibility"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "The Inflation Reduction Act presents moderate headwinds for Abbott through Medicare pricing pressures and increased tax costs. However, Abbott's diversified portfolio across diagnostics, medical devices, nutrition, and established pharmaceuticals, combined with strong international exposure (62% revenue outside Americas), provides meaningful insulation from US-specific healthcare pricing reforms. The company's substantial R&D investment ($2.8B) positions it to innovate beyond commoditized products subject to price controls.",
+    "analyzed_at": "2025-11-02T19:25:30.828035"
+  },
+  {
+    "ticker": "ABNB",
+    "company_name": "Airbnb, Inc.",
+    "regulation_name": "L_202401689EN.000101.fmx.xml",
+    "regulation_jurisdiction": "EU",
+    "impact_score": 0,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.3,
+    "key_reasons": [
+      "Regulation details are not specified, making concrete impact assessment impossible",
+      "37% European revenue exposure creates potential vulnerability to EU regulations",
+      "Without knowing specific requirements or penalties, cannot determine compliance costs or operational changes needed"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "The lack of specified requirements, penalties, and effective date prevents meaningful impact assessment. While Airbnb's significant European presence (37% of revenue) suggests EU regulations could be material, the absence of regulatory details necessitates a neutral stance until more information becomes available.",
+    "analyzed_at": "2025-11-02T19:25:33.334309"
+  },
+  {
+    "ticker": "ABBV",
+    "company_name": "AbbVie Inc.",
+    "regulation_name": "L_202401689EN.000101.fmx.xml",
+    "regulation_jurisdiction": "EU",
+    "impact_score": 0,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.3,
+    "key_reasons": [
+      "Regulation details are not specified, preventing substantive impact assessment",
+      "AbbVie's primary geographic exposure is Americas (76.4%) with limited EU revenue concentration",
+      "Without knowing specific requirements or penalties, cannot determine compliance costs or operational changes"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "The lack of specified regulatory requirements, penalties, and effective date makes meaningful impact evaluation impossible. Given AbbVie's limited EU exposure relative to Americas-focused operations, even unspecified EU regulations are unlikely to materially affect the company's overall business performance without additional detail.",
+    "analyzed_at": "2025-11-02T19:25:34.408644"
+  },
+  {
+    "ticker": "ABT",
+    "company_name": "Abbott Laboratories",
+    "regulation_name": "L_202401689EN.000101.fmx.xml",
+    "regulation_jurisdiction": "EU",
+    "impact_score": 0,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.3,
+    "key_reasons": [
+      "Regulation details are not specified, making impact assessment highly uncertain",
+      "Abbott has limited EU exposure with majority revenue from Americas (38.9%)",
+      "Healthcare products sector typically faces regulatory scrutiny, but specific requirements unknown"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "Without specified key requirements, penalties, or effective dates for this EU regulation, a meaningful impact assessment cannot be conducted. Given Abbott's relatively lower European exposure compared to Americas and the lack of regulatory specifics, a neutral stance is warranted until more information becomes available.",
+    "analyzed_at": "2025-11-02T19:25:34.730707"
+  },
+  {
+    "ticker": "AAPL",
+    "company_name": "Apple Inc.",
+    "regulation_name": "L_202401689EN.000101.fmx.xml",
+    "regulation_jurisdiction": "EU",
+    "impact_score": 0,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.3,
+    "key_reasons": [
+      "Regulation details are not specified, making impact assessment highly uncertain",
+      "EU represents 25.9% of Apple's revenue, limiting maximum potential impact",
+      "Without knowing key requirements or penalties, cannot determine compliance burden or business model effects"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "The regulation file name suggests an EU regulatory document from 2024, but without specified requirements, penalties, or effective dates, a meaningful impact assessment is impossible. Given Apple's diversified geographic exposure with EU representing approximately one-quarter of revenue, and absent any concrete regulatory details, a neutral stance is most appropriate until regulation specifics are clarified.",
+    "analyzed_at": "2025-11-02T19:25:34.932098"
+  },
+  {
+    "ticker": "A",
+    "company_name": "Agilent Technologies, Inc.",
+    "regulation_name": "L_202401689EN.000101.fmx.xml",
+    "regulation_jurisdiction": "EU",
+    "impact_score": 0,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.3,
+    "key_reasons": [
+      "Regulation details are not specified, making impact assessment highly uncertain",
+      "EU represents 27.2% of revenue - moderate exposure but unclear requirements",
+      "Life sciences sector typically faces regulatory changes, but without specifics cannot determine if this creates burden or opportunity"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "Without specified key requirements, penalties, or effective dates for regulation L_202401689EN.000101.fmx.xml, a meaningful impact assessment is not possible. While Agilent has material EU exposure (27.2% of revenue), the lack of regulatory details prevents determination of whether this creates compliance costs, competitive advantages, or operational changes. A neutral stance is warranted until regulation specifics are clarified.",
+    "analyzed_at": "2025-11-02T19:25:37.415572"
+  },
+  {
+    "ticker": "AAPL",
+    "company_name": "Apple Inc.",
+    "regulation_name": "中华人民共和国能源法__中国政府网",
+    "regulation_jurisdiction": "CN",
+    "impact_score": -0.3,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.45,
+    "key_reasons": [
+      "China Energy Law primarily affects energy producers and utilities rather than technology manufacturers directly",
+      "Apple's 17.1% China revenue exposure and significant manufacturing presence could face indirect impacts through supplier energy costs and compliance requirements",
+      "Regulation lacks specified requirements and penalties, making concrete impact assessment difficult; potential for stricter energy efficiency standards in manufacturing facilities"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "The Chinese Energy Law has limited direct applicability to Apple's core technology business, though indirect effects through manufacturing operations and supply chain energy costs in China warrant monitoring. Without specific regulatory requirements detailed, the impact remains uncertain but likely modest given Apple's diversified geographic footprint and strong financial position to absorb potential compliance costs.",
+    "analyzed_at": "2025-11-02T19:25:40.184732"
+  },
+  {
+    "ticker": "ABBV",
+    "company_name": "AbbVie Inc.",
+    "regulation_name": "中华人民共和国能源法__中国政府网",
+    "regulation_jurisdiction": "CN",
+    "impact_score": 0,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.95,
+    "key_reasons": [
+      "AbbVie is a biopharmaceutical company with minimal direct energy operations, making China's Energy Law largely irrelevant to its core business model",
+      "Geographic exposure to China is minimal with 76.4% revenue from Americas, limiting regulatory jurisdiction impact",
+      "Energy regulations primarily affect energy producers, utilities, and heavy industrial manufacturers rather than pharmaceutical R&D and manufacturing operations"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "The Chinese Energy Law has virtually no material impact on AbbVie's biopharmaceutical business. With dominant Americas exposure and pharmaceutical operations that are not energy-intensive or energy-sector focused, this regulation falls outside AbbVie's primary regulatory concerns. The company's risk profile remains unchanged by this legislation.",
+    "analyzed_at": "2025-11-02T19:25:41.267152"
+  },
+  {
+    "ticker": "ABNB",
+    "company_name": "Airbnb, Inc.",
+    "regulation_name": "中华人民共和国能源法__中国政府网",
+    "regulation_jurisdiction": "CN",
+    "impact_score": 0,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.95,
+    "key_reasons": [
+      "China Energy Law regulates energy production, distribution, and consumption sectors - not directly applicable to Airbnb's short-term rental platform business model",
+      "Airbnb has minimal geographic exposure to China market and no significant energy sector operations",
+      "Company's primary revenue from Americas (45%) and Europe (37%) remains unaffected by Chinese energy regulations"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "The Chinese Energy Law has no material impact on Airbnb's business operations as the regulation targets energy sector activities while Airbnb operates a technology-enabled hospitality marketplace. With negligible China exposure and core operations in Americas and Europe, this regulation does not affect the company's revenue streams, operational model, or competitive position.",
+    "analyzed_at": "2025-11-02T19:25:41.361644"
+  },
+  {
+    "ticker": "ABT",
+    "company_name": "Abbott Laboratories",
+    "regulation_name": "中华人民共和国能源法__中国政府网",
+    "regulation_jurisdiction": "CN",
+    "impact_score": 0,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.75,
+    "key_reasons": [
+      "Abbott Laboratories operates in healthcare products sector, not energy sector - regulation targets energy production, distribution and consumption",
+      "China represents only 5.0% of Abbott's geographic revenue exposure, limiting potential indirect impact magnitude",
+      "Energy law may affect manufacturing costs through utility pricing, but impact would be marginal relative to overall cost structure and affects all competitors equally"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "The Chinese Energy Law has minimal direct relevance to Abbott's healthcare products business. While the regulation could indirectly affect manufacturing energy costs in China, this represents a small portion of Abbott's operations (5% geographic exposure) and would impact the competitive landscape uniformly. No material business model changes or strategic adjustments are warranted.",
+    "analyzed_at": "2025-11-02T19:25:42.386190"
+  },
+  {
+    "ticker": "A",
+    "company_name": "Agilent Technologies, Inc.",
+    "regulation_name": "中华人民共和国能源法__中国政府网",
+    "regulation_jurisdiction": "CN",
+    "impact_score": 0,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.7,
+    "key_reasons": [
+      "Agilent operates primarily in life sciences and diagnostics sectors, not energy production or distribution, making direct regulatory impact minimal",
+      "China represents only a portion of the 33.3% Rest of Asia segment, limiting geographic exposure to this specific jurisdiction",
+      "Energy law may affect operational costs (electricity, facility energy use) but unlikely to materially impact core business model or competitive position",
+      "No specific requirements or penalties detailed in the regulation to assess concrete compliance obligations"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "The Chinese Energy Law has minimal direct impact on Agilent's core life sciences and diagnostics business. While the company has operations in Asia including China, the regulation primarily governs energy sector activities rather than laboratory equipment and services providers. Any indirect effects through energy costs would affect all competitors similarly, maintaining competitive neutrality.",
+    "analyzed_at": "2025-11-02T19:25:44.383741"
+  },
+  {
+    "ticker": "AAPL",
+    "company_name": "Apple Inc.",
+    "regulation_name": "人工知能関連技術の研究開発及び活用の推進に関する法律",
+    "regulation_jurisdiction": "JP",
+    "impact_score": 0.6,
+    "impact_category": "MODERATE_POSITIVE",
+    "confidence": 0.65,
+    "key_reasons": [
+      "Japan represents 6.4% of Apple's revenue, making this AI promotion law relevant but geographically limited in direct impact",
+      "Apple's substantial $31.4B R&D budget positions the company well to leverage AI development incentives and partnerships in Japan",
+      "The law promotes AI research and utilization, which aligns with Apple's AI integration strategy across products (Siri, machine learning features, Apple Intelligence), potentially creating favorable regulatory environment for AI-powered services expansion in Japan"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "This Japanese AI promotion law creates a moderately positive environment for Apple's AI initiatives in Japan, but the limited geographic scope (6.4% of revenue) constrains overall company impact. The regulation appears supportive rather than restrictive, favoring companies with strong R&D capabilities like Apple, though specific implementation details remain unclear. The positive tailwinds are insufficient to warrant a buy recommendation given the limited market exposure.",
+    "analyzed_at": "2025-11-02T19:25:47.914087"
+  },
+  {
+    "ticker": "ABNB",
+    "company_name": "Airbnb, Inc.",
+    "regulation_name": "人工知能関連技術の研究開発及び活用の推進に関する法律",
+    "regulation_jurisdiction": "JP",
+    "impact_score": 0.1,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.4,
+    "key_reasons": [
+      "Limited geographic exposure to Japan - only represents small portion of APAC segment which itself is minor compared to Americas (45%) and Europe (37%)",
+      "Regulation focuses on AI research and development promotion rather than restrictions, potentially creating minor opportunities for AI-enhanced platform features",
+      "Airbnb's core business model is accommodation marketplace, not AI technology provider, making direct regulatory impact minimal"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "This Japanese AI promotion regulation has minimal impact on Airbnb given the company's limited Japan exposure and the regulation's promotional rather than restrictive nature. While Airbnb invests significantly in R&D ($2.1B) including AI for search and recommendations, Japan represents a small market segment. The lack of specified penalties or requirements further reduces material impact.",
+    "analyzed_at": "2025-11-02T19:25:48.284157"
+  },
+  {
+    "ticker": "ABBV",
+    "company_name": "AbbVie Inc.",
+    "regulation_name": "人工知能関連技術の研究開発及び活用の推進に関する法律",
+    "regulation_jurisdiction": "JP",
+    "impact_score": 0.3,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.4,
+    "key_reasons": [
+      "Limited geographic exposure to Japan (76.4% Americas-focused) reduces direct regulatory impact",
+      "AI research promotion could benefit R&D efficiency in drug discovery, given substantial $12.8B R&D budget",
+      "Lack of specific requirements, penalties, and effective date creates significant regulatory uncertainty"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "This Japanese AI promotion regulation has minimal direct impact on AbbVie given its Americas-centric operations (76.4%). While AI advancement could modestly benefit pharmaceutical R&D processes, the regulation's unspecified requirements and AbbVie's limited Japan exposure result in a near-neutral impact with low confidence due to regulatory ambiguity.",
+    "analyzed_at": "2025-11-02T19:25:48.583644"
+  },
+  {
+    "ticker": "ABT",
+    "company_name": "Abbott Laboratories",
+    "regulation_name": "人工知能関連技術の研究開発及び活用の推進に関する法律",
+    "regulation_jurisdiction": "JP",
+    "impact_score": 0.3,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.65,
+    "key_reasons": [
+      "Limited Japan exposure (3.4% of revenue) reduces direct regulatory impact magnitude",
+      "AI promotion law likely creates opportunities for healthcare innovation and R&D collaboration in Japanese market",
+      "Abbott's $2.8B R&D spending positions company to leverage AI development incentives, though regulation details are unspecified"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "This Japanese AI promotion regulation has minimal material impact on Abbott given its small Japan revenue exposure. While the law may create modest opportunities for AI-enhanced healthcare products and diagnostics in the Japanese market, the lack of specified requirements, penalties, and effective dates limits actionable strategic implications. The neutral-to-slightly-positive assessment reflects potential upside without significant downside risk.",
+    "analyzed_at": "2025-11-02T19:25:49.047527"
+  },
+  {
+    "ticker": "A",
+    "company_name": "Agilent Technologies, Inc.",
+    "regulation_name": "人工知能関連技術の研究開発及び活用の推進に関する法律",
+    "regulation_jurisdiction": "JP",
+    "impact_score": 0.4,
+    "impact_category": "NEUTRAL",
+    "confidence": 0.65,
+    "key_reasons": [
+      "Limited direct exposure to Japan market (33.3% Rest of Asia includes multiple countries beyond Japan)",
+      "AI promotion law likely creates modest opportunities for life sciences R&D and diagnostics automation without imposing significant compliance burdens",
+      "Company's $0.5B R&D spending and technology focus positions it to benefit from AI adoption in laboratory instruments and analytical tools"
+    ],
+    "recommendation": "HOLD",
+    "explanation": "This Japanese AI promotion regulation appears designed to encourage AI development rather than impose restrictive requirements. With Japan representing only a portion of Agilent's 33.3% Rest of Asia revenue and the law promoting rather than restricting AI use, the impact is likely neutral to slightly positive. The company's life sciences and diagnostics business could benefit modestly from increased AI adoption in Japanese research institutions and laboratories.",
+    "analyzed_at": "2025-11-02T19:25:51.447997"
+  }
+]

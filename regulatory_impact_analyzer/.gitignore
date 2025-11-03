@@ -1,0 +1,46 @@
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Données & sorties 
+data/
+output/
+models/
+artifacts/
+logs/
+tmp/
+**/*.csv
+**/*.tsv
+**/*.xlsx
+**/*.parquet
+**/*.feather
+**/*.zip
+**/*.gz
+
+# Garder un dossier d’exemples minces
+!data/sample/**
+!output/sample/**
+
+# Secrets & conf locales
+.env
+*.env
+.env.*
+*.key
+*.pem
+*.crt
+.aws/
+credentials.json
+
+# Cloud/IaC
+**/.terraform/
+terraform.tfstate*
+*.plan
+
+# OS
+.DS_Store
+Thumbs.db

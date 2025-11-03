@@ -1,0 +1,25 @@
+dash==2.14.2
+dash-bootstrap-components==1.5.0
+plotly==5.18.0
+pandas==2.1.4
+gunicorn==21.2.0
+
+# PolicyPulse Dashboard - Requirements
+# Datathon PolyFinances 2025
+
+# Core dependencies
+dash==2.14.1
+dash-bootstrap-components==1.5.0
+plotly==5.18.0
+pandas==2.1.4
+numpy==1.24.3
+
+# Optional for advanced features
+# reportlab==4.0.7  # For PDF generation
+# weasyprint==60.1  # Alternative PDF generator
+# openpyxl==3.1.2   # For Excel export
+
+# Development
+# black==23.12.0    # Code formatting
+# flake8==6.1.0     # Linting
+
